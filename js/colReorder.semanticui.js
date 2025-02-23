@@ -1,3 +1,3 @@
-/*! Semanic UI styling wrapper for ColReorder
+/*! Semantic UI styling wrapper for ColReorder
  * © SpryMedia Ltd - datatables.net/license
  */
